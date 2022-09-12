@@ -34,7 +34,7 @@ public class CheckAccount extends Locator implements CheckAccountConstants  {
 
     public void accountNameControl(){
 
-        Assert.assertEquals("furkan ersamut", GetTextByXpath(accountName));
+        Assert.assertEquals("xxxxxx", GetTextByXpath(accountName));
     }
 
 
